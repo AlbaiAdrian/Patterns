@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Builder\Stepwise\bin\Debug\net9.0\Stepwise.exe
+C:\Work\Patterns\Creational\Builder\Stepwise\bin\Debug\net9.0\Stepwise.deps.json
+C:\Work\Patterns\Creational\Builder\Stepwise\bin\Debug\net9.0\Stepwise.runtimeconfig.json
+C:\Work\Patterns\Creational\Builder\Stepwise\bin\Debug\net9.0\Stepwise.dll
+C:\Work\Patterns\Creational\Builder\Stepwise\bin\Debug\net9.0\Stepwise.pdb
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.dll
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\refint\Stepwise.dll
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.pdb
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\Stepwise.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Builder\Stepwise\obj\Debug\net9.0\ref\Stepwise.dll

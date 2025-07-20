@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Singleton\LazyLoading\bin\Debug\net9.0\LazyLoading.exe
+C:\Work\Patterns\Creational\Singleton\LazyLoading\bin\Debug\net9.0\LazyLoading.deps.json
+C:\Work\Patterns\Creational\Singleton\LazyLoading\bin\Debug\net9.0\LazyLoading.runtimeconfig.json
+C:\Work\Patterns\Creational\Singleton\LazyLoading\bin\Debug\net9.0\LazyLoading.dll
+C:\Work\Patterns\Creational\Singleton\LazyLoading\bin\Debug\net9.0\LazyLoading.pdb
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.dll
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\refint\LazyLoading.dll
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.pdb
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\LazyLoading.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Singleton\LazyLoading\obj\Debug\net9.0\ref\LazyLoading.dll

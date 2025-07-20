@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Factory\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+C:\Work\Patterns\Creational\Factory\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+C:\Work\Patterns\Creational\Factory\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+C:\Work\Patterns\Creational\Factory\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+C:\Work\Patterns\Creational\Factory\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Factory\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll

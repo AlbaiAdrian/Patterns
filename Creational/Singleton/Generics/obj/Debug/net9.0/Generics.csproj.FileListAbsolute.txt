@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Singleton\Generics\bin\Debug\net9.0\Generics.exe
+C:\Work\Patterns\Creational\Singleton\Generics\bin\Debug\net9.0\Generics.deps.json
+C:\Work\Patterns\Creational\Singleton\Generics\bin\Debug\net9.0\Generics.runtimeconfig.json
+C:\Work\Patterns\Creational\Singleton\Generics\bin\Debug\net9.0\Generics.dll
+C:\Work\Patterns\Creational\Singleton\Generics\bin\Debug\net9.0\Generics.pdb
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.dll
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\refint\Generics.dll
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.pdb
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\Generics.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Singleton\Generics\obj\Debug\net9.0\ref\Generics.dll

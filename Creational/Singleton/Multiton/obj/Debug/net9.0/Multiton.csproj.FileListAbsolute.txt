@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Singleton\Multiton\bin\Debug\net9.0\Multiton.exe
+C:\Work\Patterns\Creational\Singleton\Multiton\bin\Debug\net9.0\Multiton.deps.json
+C:\Work\Patterns\Creational\Singleton\Multiton\bin\Debug\net9.0\Multiton.runtimeconfig.json
+C:\Work\Patterns\Creational\Singleton\Multiton\bin\Debug\net9.0\Multiton.dll
+C:\Work\Patterns\Creational\Singleton\Multiton\bin\Debug\net9.0\Multiton.pdb
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.dll
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\refint\Multiton.dll
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.pdb
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\Multiton.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Singleton\Multiton\obj\Debug\net9.0\ref\Multiton.dll

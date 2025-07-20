@@ -1,0 +1,15 @@
+C:\Work\Patterns\Structural\Composite_I\bin\Debug\net7.0\Composite_I.exe
+C:\Work\Patterns\Structural\Composite_I\bin\Debug\net7.0\Composite_I.deps.json
+C:\Work\Patterns\Structural\Composite_I\bin\Debug\net7.0\Composite_I.runtimeconfig.json
+C:\Work\Patterns\Structural\Composite_I\bin\Debug\net7.0\Composite_I.dll
+C:\Work\Patterns\Structural\Composite_I\bin\Debug\net7.0\Composite_I.pdb
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.csproj.AssemblyReference.cache
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.AssemblyInfoInputs.cache
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.AssemblyInfo.cs
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.dll
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\refint\Composite_I.dll
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.pdb
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\Composite_I.genruntimeconfig.cache
+C:\Work\Patterns\Structural\Composite_I\obj\Debug\net7.0\ref\Composite_I.dll

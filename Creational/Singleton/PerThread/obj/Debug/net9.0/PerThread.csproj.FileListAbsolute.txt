@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Singleton\PerThread\bin\Debug\net9.0\PerThread.exe
+C:\Work\Patterns\Creational\Singleton\PerThread\bin\Debug\net9.0\PerThread.deps.json
+C:\Work\Patterns\Creational\Singleton\PerThread\bin\Debug\net9.0\PerThread.runtimeconfig.json
+C:\Work\Patterns\Creational\Singleton\PerThread\bin\Debug\net9.0\PerThread.dll
+C:\Work\Patterns\Creational\Singleton\PerThread\bin\Debug\net9.0\PerThread.pdb
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.dll
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\refint\PerThread.dll
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.pdb
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\PerThread.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Singleton\PerThread\obj\Debug\net9.0\ref\PerThread.dll

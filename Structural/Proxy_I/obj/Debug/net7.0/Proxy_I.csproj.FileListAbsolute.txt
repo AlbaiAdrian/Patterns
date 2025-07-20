@@ -1,0 +1,14 @@
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.AssemblyInfoInputs.cache
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.AssemblyInfo.cs
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Structural\Proxy_I\bin\Debug\net7.0\Proxy_I.exe
+C:\Work\Patterns\Structural\Proxy_I\bin\Debug\net7.0\Proxy_I.deps.json
+C:\Work\Patterns\Structural\Proxy_I\bin\Debug\net7.0\Proxy_I.runtimeconfig.json
+C:\Work\Patterns\Structural\Proxy_I\bin\Debug\net7.0\Proxy_I.dll
+C:\Work\Patterns\Structural\Proxy_I\bin\Debug\net7.0\Proxy_I.pdb
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.dll
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\refint\Proxy_I.dll
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.pdb
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\Proxy_I.genruntimeconfig.cache
+C:\Work\Patterns\Structural\Proxy_I\obj\Debug\net7.0\ref\Proxy_I.dll

@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Factory\ObjectTracking\bin\Debug\net9.0\ObjectTracking.exe
+C:\Work\Patterns\Creational\Factory\ObjectTracking\bin\Debug\net9.0\ObjectTracking.deps.json
+C:\Work\Patterns\Creational\Factory\ObjectTracking\bin\Debug\net9.0\ObjectTracking.runtimeconfig.json
+C:\Work\Patterns\Creational\Factory\ObjectTracking\bin\Debug\net9.0\ObjectTracking.dll
+C:\Work\Patterns\Creational\Factory\ObjectTracking\bin\Debug\net9.0\ObjectTracking.pdb
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.dll
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\refint\ObjectTracking.dll
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.pdb
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ObjectTracking.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Factory\ObjectTracking\obj\Debug\net9.0\ref\ObjectTracking.dll

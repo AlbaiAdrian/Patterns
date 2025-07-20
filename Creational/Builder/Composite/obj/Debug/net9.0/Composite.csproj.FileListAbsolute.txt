@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Builder\Composite\bin\Debug\net9.0\Composite.exe
+C:\Work\Patterns\Creational\Builder\Composite\bin\Debug\net9.0\Composite.deps.json
+C:\Work\Patterns\Creational\Builder\Composite\bin\Debug\net9.0\Composite.runtimeconfig.json
+C:\Work\Patterns\Creational\Builder\Composite\bin\Debug\net9.0\Composite.dll
+C:\Work\Patterns\Creational\Builder\Composite\bin\Debug\net9.0\Composite.pdb
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.dll
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\refint\Composite.dll
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.pdb
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\Composite.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Builder\Composite\obj\Debug\net9.0\ref\Composite.dll

@@ -1,0 +1,14 @@
+C:\Work\Patterns\Creational\Factory\InnerFactory\bin\Debug\net9.0\InnerFactory.exe
+C:\Work\Patterns\Creational\Factory\InnerFactory\bin\Debug\net9.0\InnerFactory.deps.json
+C:\Work\Patterns\Creational\Factory\InnerFactory\bin\Debug\net9.0\InnerFactory.runtimeconfig.json
+C:\Work\Patterns\Creational\Factory\InnerFactory\bin\Debug\net9.0\InnerFactory.dll
+C:\Work\Patterns\Creational\Factory\InnerFactory\bin\Debug\net9.0\InnerFactory.pdb
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.AssemblyInfoInputs.cache
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.AssemblyInfo.cs
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.dll
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\refint\InnerFactory.dll
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.pdb
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\InnerFactory.genruntimeconfig.cache
+C:\Work\Patterns\Creational\Factory\InnerFactory\obj\Debug\net9.0\ref\InnerFactory.dll

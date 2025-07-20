@@ -1,0 +1,15 @@
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.csproj.AssemblyReference.cache
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.AssemblyInfoInputs.cache
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.AssemblyInfo.cs
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Structural\Bridge_I\bin\Debug\net7.0\Bridge_I.exe
+C:\Work\Patterns\Structural\Bridge_I\bin\Debug\net7.0\Bridge_I.deps.json
+C:\Work\Patterns\Structural\Bridge_I\bin\Debug\net7.0\Bridge_I.runtimeconfig.json
+C:\Work\Patterns\Structural\Bridge_I\bin\Debug\net7.0\Bridge_I.dll
+C:\Work\Patterns\Structural\Bridge_I\bin\Debug\net7.0\Bridge_I.pdb
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.dll
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\refint\Bridge_I.dll
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.pdb
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\Bridge_I.genruntimeconfig.cache
+C:\Work\Patterns\Structural\Bridge_I\obj\Debug\net7.0\ref\Bridge_I.dll

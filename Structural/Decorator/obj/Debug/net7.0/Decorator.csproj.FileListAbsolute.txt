@@ -1,0 +1,15 @@
+C:\Work\Patterns\Structural\Decorator\bin\Debug\net7.0\Decorator.exe
+C:\Work\Patterns\Structural\Decorator\bin\Debug\net7.0\Decorator.deps.json
+C:\Work\Patterns\Structural\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+C:\Work\Patterns\Structural\Decorator\bin\Debug\net7.0\Decorator.dll
+C:\Work\Patterns\Structural\Decorator\bin\Debug\net7.0\Decorator.pdb
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.dll
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.pdb
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+C:\Work\Patterns\Structural\Decorator\obj\Debug\net7.0\ref\Decorator.dll

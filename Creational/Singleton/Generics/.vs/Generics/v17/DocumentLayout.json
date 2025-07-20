@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|c:\\work\\patterns\\creational\\singleton\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|c:\\work\\patterns\\creational\\singleton\\generics\\singletonwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|solutionrelative:singletonwithgenerics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|c:\\work\\patterns\\creational\\singleton\\generics\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6575B0D3-107A-47C2-9E78-B9763C8388C3}|Generics.csproj|solutionrelative:example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example2.cs",
+              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\Example2.cs",
+              "RelativeDocumentMoniker": "Example2.cs",
+              "ToolTip": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\Example2.cs",
+              "RelativeToolTip": "Example2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:23:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonWithGenerics.cs",
+              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\SingletonWithGenerics.cs",
+              "RelativeDocumentMoniker": "SingletonWithGenerics.cs",
+              "ToolTip": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\SingletonWithGenerics.cs",
+              "RelativeToolTip": "SingletonWithGenerics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:22:53.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\Patterns\\Creational\\Singleton\\Generics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:27:40.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
