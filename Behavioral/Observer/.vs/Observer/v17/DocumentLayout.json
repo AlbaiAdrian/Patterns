@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|c:\\work\\patternsdemo\\behavioral\\observer\\mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|solutionrelative:mobileapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|c:\\work\\patternsdemo\\behavioral\\observer\\digitaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|solutionrelative:digitaldisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|c:\\work\\patternsdemo\\behavioral\\observer\\itemperatureobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|solutionrelative:itemperatureobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|c:\\work\\patternsdemo\\behavioral\\observer\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|solutionrelative:temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|c:\\work\\patternsdemo\\behavioral\\observer\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E63AEB8-072A-4578-9343-46C361B7915C}|Observer.csproj|solutionrelative:isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigitalDisplay.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\DigitalDisplay.cs",
+              "RelativeDocumentMoniker": "DigitalDisplay.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\DigitalDisplay.cs",
+              "RelativeToolTip": "DigitalDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:43:23.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobileApp.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\MobileApp.cs",
+              "RelativeDocumentMoniker": "MobileApp.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\MobileApp.cs",
+              "RelativeToolTip": "MobileApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:43:18.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "TemperatureSensor.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\TemperatureSensor.cs",
+              "RelativeToolTip": "TemperatureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:42:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITemperatureObserver.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\ITemperatureObserver.cs",
+              "RelativeDocumentMoniker": "ITemperatureObserver.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\ITemperatureObserver.cs",
+              "RelativeToolTip": "ITemperatureObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:41:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\ISubject.cs",
+              "RelativeDocumentMoniker": "ISubject.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Observer\\ISubject.cs",
+              "RelativeToolTip": "ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:41:13.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

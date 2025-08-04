@@ -13,7 +13,7 @@ internal class OperationProxy : IOperation
     {
         if (!CheckRights())
         {
-            Console.WriteLine("Do mnpt have rights to execute operation");
+            Console.WriteLine("Do not have rights to execute operation");
             return;
         }
 

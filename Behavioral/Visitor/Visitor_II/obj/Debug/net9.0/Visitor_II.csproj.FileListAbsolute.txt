@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\bin\Debug\net9.0\Visitor_II.exe
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\bin\Debug\net9.0\Visitor_II.deps.json
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\bin\Debug\net9.0\Visitor_II.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\bin\Debug\net9.0\Visitor_II.dll
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\bin\Debug\net9.0\Visitor_II.pdb
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.dll
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\refint\Visitor_II.dll
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.pdb
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\Visitor_II.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\Visitor\Visitor_II\obj\Debug\net9.0\ref\Visitor_II.dll

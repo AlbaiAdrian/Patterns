@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|c:\\work\\patternsdemo\\behavioral\\memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|c:\\work\\patternsdemo\\behavioral\\memento\\bankaccounthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|solutionrelative:bankaccounthistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|c:\\work\\patternsdemo\\behavioral\\memento\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|c:\\work\\patternsdemo\\behavioral\\memento\\bankaccountmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|solutionrelative:bankaccountmemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|c:\\work\\patternsdemo\\behavioral\\memento\\imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3024DC11-2AA6-42ED-934A-4D348A3EB232}|Memento.csproj|solutionrelative:imemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMemento.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\IMemento.cs",
+              "RelativeDocumentMoniker": "IMemento.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\IMemento.cs",
+              "RelativeToolTip": "IMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:37:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccountHistory.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccountHistory.cs",
+              "RelativeDocumentMoniker": "BankAccountHistory.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccountHistory.cs",
+              "RelativeToolTip": "BankAccountHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:30:05.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccountMemento.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccountMemento.cs",
+              "RelativeDocumentMoniker": "BankAccountMemento.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccountMemento.cs",
+              "RelativeToolTip": "BankAccountMemento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:30:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:29:21.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Memento\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T08:23:36.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

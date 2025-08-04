@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\facebooknotificationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:facebooknotificationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\smsnorificationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:smsnorificationdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\mailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:mailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\basedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:basedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|c:\\work\\patternsdemo\\structural\\decorator_i\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E38744C5-7A31-440F-B880-0C12838BDB85}|Decorator_I.csproj|solutionrelative:inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDecorator.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\BaseDecorator.cs",
+              "RelativeDocumentMoniker": "BaseDecorator.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\BaseDecorator.cs",
+              "RelativeToolTip": "BaseDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailNotification.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\MailNotification.cs",
+              "RelativeDocumentMoniker": "MailNotification.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\MailNotification.cs",
+              "RelativeToolTip": "MailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacebookNotificationDecorator.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\FacebookNotificationDecorator.cs",
+              "RelativeDocumentMoniker": "FacebookNotificationDecorator.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\FacebookNotificationDecorator.cs",
+              "RelativeToolTip": "FacebookNotificationDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SMSNorificationDecorator.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\SMSNorificationDecorator.cs",
+              "RelativeDocumentMoniker": "SMSNorificationDecorator.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\SMSNorificationDecorator.cs",
+              "RelativeToolTip": "SMSNorificationDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\INotification.cs",
+              "RelativeDocumentMoniker": "INotification.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Decorator_I\\INotification.cs",
+              "RelativeToolTip": "INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:48:18.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

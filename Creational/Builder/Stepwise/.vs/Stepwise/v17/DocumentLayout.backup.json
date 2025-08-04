@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\",
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patternsdemo\\creational\\builder\\stepwise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patternsdemo\\creational\\builder\\stepwise\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\steps\\ibuildstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patternsdemo\\creational\\builder\\stepwise\\steps\\icartypestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:steps\\icartypestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patternsdemo\\creational\\builder\\stepwise\\steps\\ibuildstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:steps\\ibuildstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\steps\\itransmissionstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:steps\\itransmissionstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\steps\\ienginestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:steps\\ienginestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patterns\\creational\\builder\\stepwise\\steps\\icartypestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:steps\\icartypestep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|c:\\work\\patternsdemo\\creational\\builder\\stepwise\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36080A8-4675-43A0-B949-CAF5C33D936C}|Stepwise.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:23:56.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarTypeStep.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Steps\\ICarTypeStep.cs",
+              "RelativeDocumentMoniker": "Steps\\ICarTypeStep.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Steps\\ICarTypeStep.cs",
+              "RelativeToolTip": "Steps\\ICarTypeStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:22:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuildStep.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Steps\\IBuildStep.cs",
+              "RelativeDocumentMoniker": "Steps\\IBuildStep.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Steps\\IBuildStep.cs",
+              "RelativeToolTip": "Steps\\IBuildStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:22:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "CarBuilder.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\CarBuilder.cs",
+              "RelativeToolTip": "CarBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:22:27.545Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -78,93 +122,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Car.cs",
-              "RelativeToolTip": "Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:02:09.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:01:55.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarBuilder.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\CarBuilder.cs",
-              "RelativeDocumentMoniker": "CarBuilder.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\CarBuilder.cs",
-              "RelativeToolTip": "CarBuilder.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:55:48.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEngineStep.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\IEngineStep.cs",
-              "RelativeDocumentMoniker": "Steps\\IEngineStep.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\IEngineStep.cs",
-              "RelativeToolTip": "Steps\\IEngineStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:54:55.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICarTypeStep.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\ICarTypeStep.cs",
-              "RelativeDocumentMoniker": "Steps\\ICarTypeStep.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\ICarTypeStep.cs",
-              "RelativeToolTip": "Steps\\ICarTypeStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:54:44.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBuildStep.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\IBuildStep.cs",
-              "RelativeDocumentMoniker": "Steps\\IBuildStep.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\IBuildStep.cs",
-              "RelativeToolTip": "Steps\\IBuildStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:54:24.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ITransmissionStep.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\ITransmissionStep.cs",
-              "RelativeDocumentMoniker": "Steps\\ITransmissionStep.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Steps\\ITransmissionStep.cs",
-              "RelativeToolTip": "Steps\\ITransmissionStep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:53:29.394Z",
+              "WhenOpened": "2025-07-22T10:21:52.326Z",
               "EditorCaption": ""
             }
           ]

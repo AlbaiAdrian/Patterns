@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Patterns\\Structural\\Bridge_I\\",
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\remotes\\generalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\generalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\remotes\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\remotes\\radioremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\radioremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\devices\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\devices\\generaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\generaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\devices\\devicetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\remotes\\generalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\generalremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\devices\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\devices\\devicetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\devicetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patterns\\structural\\bridge_i\\devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\devices\\generaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\generaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:devices\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\remotes\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\tvremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|c:\\work\\patternsdemo\\structural\\bridge_i\\remotes\\radioremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5235F8B0-41F9-4170-8E01-30E564755473}|Bridge_I.csproj|solutionrelative:remotes\\radioremote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,119 +86,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:52:29.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TVRemote.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\TVRemote.cs",
-              "RelativeDocumentMoniker": "Remotes\\TVRemote.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\TVRemote.cs",
-              "RelativeToolTip": "Remotes\\TVRemote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:25.168Z",
+              "WhenOpened": "2025-07-22T10:50:25.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RadioRemote.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\RadioRemote.cs",
-              "RelativeDocumentMoniker": "Remotes\\RadioRemote.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\RadioRemote.cs",
-              "RelativeToolTip": "Remotes\\RadioRemote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TV.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\TV.cs",
+              "RelativeDocumentMoniker": "Devices\\TV.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\TV.cs",
+              "RelativeToolTip": "Devices\\TV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:19.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GeneralRemote.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\GeneralRemote.cs",
-              "RelativeDocumentMoniker": "Remotes\\GeneralRemote.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Remotes\\GeneralRemote.cs",
-              "RelativeToolTip": "Remotes\\GeneralRemote.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:14.944Z",
+              "WhenOpened": "2025-07-22T10:50:15.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TV.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\TV.cs",
-              "RelativeDocumentMoniker": "Devices\\TV.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\TV.cs",
-              "RelativeToolTip": "Devices\\TV.cs",
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\Radio.cs",
+              "RelativeDocumentMoniker": "Devices\\Radio.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\Radio.cs",
+              "RelativeToolTip": "Devices\\Radio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:12.473Z",
+              "WhenOpened": "2025-07-22T10:50:12.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Radio.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\Radio.cs",
-              "RelativeDocumentMoniker": "Devices\\Radio.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\Radio.cs",
-              "RelativeToolTip": "Devices\\Radio.cs",
+              "Title": "DeviceTypes.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\DeviceTypes.cs",
+              "RelativeDocumentMoniker": "Devices\\DeviceTypes.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\DeviceTypes.cs",
+              "RelativeToolTip": "Devices\\DeviceTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:08.919Z",
+              "WhenOpened": "2025-07-22T10:49:59.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GeneralDevice.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\GeneralDevice.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\GeneralDevice.cs",
               "RelativeDocumentMoniker": "Devices\\GeneralDevice.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\GeneralDevice.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\GeneralDevice.cs",
               "RelativeToolTip": "Devices\\GeneralDevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:04.884Z",
+              "WhenOpened": "2025-07-22T10:49:52.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\IDevice.cs",
+              "RelativeDocumentMoniker": "Devices\\IDevice.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Devices\\IDevice.cs",
+              "RelativeToolTip": "Devices\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:49:37.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DeviceTypes.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\DeviceTypes.cs",
-              "RelativeDocumentMoniker": "Devices\\DeviceTypes.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\DeviceTypes.cs",
-              "RelativeToolTip": "Devices\\DeviceTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TVRemote.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\TVRemote.cs",
+              "RelativeDocumentMoniker": "Remotes\\TVRemote.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\TVRemote.cs",
+              "RelativeToolTip": "Remotes\\TVRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:49:03.244Z",
+              "WhenOpened": "2025-07-22T10:49:15.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IDevice.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\IDevice.cs",
-              "RelativeDocumentMoniker": "Devices\\IDevice.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Structural\\Bridge_I\\Devices\\IDevice.cs",
-              "RelativeToolTip": "Devices\\IDevice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RadioRemote.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\RadioRemote.cs",
+              "RelativeDocumentMoniker": "Remotes\\RadioRemote.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\RadioRemote.cs",
+              "RelativeToolTip": "Remotes\\RadioRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:48:55.368Z"
+              "WhenOpened": "2025-07-22T10:49:03.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralRemote.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\GeneralRemote.cs",
+              "RelativeDocumentMoniker": "Remotes\\GeneralRemote.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Bridge_I\\Remotes\\GeneralRemote.cs",
+              "RelativeToolTip": "Remotes\\GeneralRemote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:47:30.13Z",
+              "EditorCaption": ""
             }
           ]
         }

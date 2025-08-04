@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vYptKwdhNOB9LpHA7RJdg5Hny1pL35l44pofLIi5nWgAzHEUugOOS2U3tAdgEEhbeqynryuVd8s0xmPOTGALBQ==",
+  "dgSpecHash": "txaW4lFdz3w=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Structural\\Proxy\\Proxy.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Structural\\Proxy\\Proxy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

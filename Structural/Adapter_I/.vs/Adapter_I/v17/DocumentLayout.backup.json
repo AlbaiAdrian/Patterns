@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|c:\\work\\patternsdemo\\structural\\adapter_i\\roundpeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|solutionrelative:roundpeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|c:\\work\\patternsdemo\\structural\\adapter_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|c:\\work\\patternsdemo\\structural\\adapter_i\\squarepegadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|solutionrelative:squarepegadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|c:\\work\\patternsdemo\\structural\\adapter_i\\roundhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|solutionrelative:roundhole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|c:\\work\\patternsdemo\\structural\\adapter_i\\squarepeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FAEDC15-577F-4BC7-AD9D-B1F63542CF5B}|Adapter_I.csproj|solutionrelative:squarepeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoundPeg.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\RoundPeg.cs",
+              "RelativeDocumentMoniker": "RoundPeg.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\RoundPeg.cs",
+              "RelativeToolTip": "RoundPeg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T10:36:47.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SquarePeg.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\SquarePeg.cs",
+              "RelativeDocumentMoniker": "SquarePeg.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\SquarePeg.cs",
+              "RelativeToolTip": "SquarePeg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:36:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoundHole.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\RoundHole.cs",
+              "RelativeDocumentMoniker": "RoundHole.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\RoundHole.cs",
+              "RelativeToolTip": "RoundHole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:36:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquarePegAdapter.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\SquarePegAdapter.cs",
+              "RelativeDocumentMoniker": "SquarePegAdapter.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\SquarePegAdapter.cs",
+              "RelativeToolTip": "SquarePegAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:36:53.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Adapter_I\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:36:53.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Behavioral\\State\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\states\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:states\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\states\\moderationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:states\\moderationstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\idocumentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:idocumentstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:documentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|c:\\work\\patternsdemo\\behavioral\\state\\states\\publishedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA2E9865-B2D7-48D3-B35F-30F913341025}|State.csproj|solutionrelative:states\\publishedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublishedState.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\PublishedState.cs",
+              "RelativeDocumentMoniker": "States\\PublishedState.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\PublishedState.cs",
+              "RelativeToolTip": "States\\PublishedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:48:14.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModerationState.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\ModerationState.cs",
+              "RelativeDocumentMoniker": "States\\ModerationState.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\ModerationState.cs",
+              "RelativeToolTip": "States\\ModerationState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:47:42.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DraftState.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\DraftState.cs",
+              "RelativeDocumentMoniker": "States\\DraftState.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\States\\DraftState.cs",
+              "RelativeToolTip": "States\\DraftState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:47:01.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocumentContext.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\DocumentContext.cs",
+              "RelativeDocumentMoniker": "DocumentContext.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\DocumentContext.cs",
+              "RelativeToolTip": "DocumentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:45:21.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDocumentState.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\IDocumentState.cs",
+              "RelativeDocumentMoniker": "IDocumentState.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\IDocumentState.cs",
+              "RelativeToolTip": "IDocumentState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:44:35.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\State\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\State\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T10:42:24.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\Observer\bin\Debug\net9.0\Observer.exe
+C:\Work\PatternsDemo\Behavioral\Observer\bin\Debug\net9.0\Observer.deps.json
+C:\Work\PatternsDemo\Behavioral\Observer\bin\Debug\net9.0\Observer.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\Observer\bin\Debug\net9.0\Observer.dll
+C:\Work\PatternsDemo\Behavioral\Observer\bin\Debug\net9.0\Observer.pdb
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.dll
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\refint\Observer.dll
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.pdb
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\Observer.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\Observer\obj\Debug\net9.0\ref\Observer.dll

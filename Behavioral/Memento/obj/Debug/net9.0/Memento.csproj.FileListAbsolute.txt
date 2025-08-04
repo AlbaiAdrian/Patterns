@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\Memento\bin\Debug\net9.0\Memento.exe
+C:\Work\PatternsDemo\Behavioral\Memento\bin\Debug\net9.0\Memento.deps.json
+C:\Work\PatternsDemo\Behavioral\Memento\bin\Debug\net9.0\Memento.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\Memento\bin\Debug\net9.0\Memento.dll
+C:\Work\PatternsDemo\Behavioral\Memento\bin\Debug\net9.0\Memento.pdb
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.dll
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\refint\Memento.dll
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.pdb
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\Memento.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\Memento\obj\Debug\net9.0\ref\Memento.dll

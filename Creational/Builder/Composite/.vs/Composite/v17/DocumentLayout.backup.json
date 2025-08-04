@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\",
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patterns\\creational\\builder\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patternsdemo\\creational\\builder\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patterns\\creational\\builder\\composite\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patterns\\creational\\builder\\composite\\personaddressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patternsdemo\\creational\\builder\\composite\\personaddressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:personaddressbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patterns\\creational\\builder\\composite\\personbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patternsdemo\\creational\\builder\\composite\\personjobbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:personjobbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patternsdemo\\creational\\builder\\composite\\personbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:personbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patterns\\creational\\builder\\composite\\personjobbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:personjobbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|c:\\work\\patternsdemo\\creational\\builder\\composite\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57B3F36-29AF-4E30-9C97-95433429F48B}|Composite.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,67 +70,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PersonJobBuilder.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonJobBuilder.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonJobBuilder.cs",
               "RelativeDocumentMoniker": "PersonJobBuilder.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonJobBuilder.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonJobBuilder.cs",
               "RelativeToolTip": "PersonJobBuilder.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:32:21.346Z",
+              "WhenOpened": "2025-07-22T10:17:56.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonAddressBuilder.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonAddressBuilder.cs",
-              "RelativeDocumentMoniker": "PersonAddressBuilder.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonAddressBuilder.cs",
-              "RelativeToolTip": "PersonAddressBuilder.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:30:15.386Z",
+              "WhenOpened": "2025-07-21T07:08:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonAddressBuilder.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonAddressBuilder.cs",
+              "RelativeDocumentMoniker": "PersonAddressBuilder.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonAddressBuilder.cs",
+              "RelativeToolTip": "PersonAddressBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:05:53.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PersonBuilder.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonBuilder.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonBuilder.cs",
               "RelativeDocumentMoniker": "PersonBuilder.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\PersonBuilder.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\PersonBuilder.cs",
               "RelativeToolTip": "PersonBuilder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:28:13.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\Person.cs",
-              "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\Person.cs",
-              "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:27:16.911Z",
+              "WhenOpened": "2025-07-21T07:05:36.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T11:25:01.325Z",
+              "WhenOpened": "2025-07-21T06:43:39.915Z",
               "EditorCaption": ""
             }
           ]

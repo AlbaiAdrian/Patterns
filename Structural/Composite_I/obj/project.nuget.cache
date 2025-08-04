@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JRlyEHEgW9YMvGSa3Zwg+YYcyyBq9pUQkpYTp48p8QBj+8wl9jwJuV9QWJRbzMUzN9BYLX/g1z+bXh3roMzB1A==",
+  "dgSpecHash": "50T6s1Qe9rE=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Structural\\Composite_I\\Composite_I.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Structural\\Composite_I\\Composite_I.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

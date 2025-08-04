@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\Specification\bin\Debug\net7.0\Specification.exe
+C:\Work\PatternsDemo\Behavioral\Specification\bin\Debug\net7.0\Specification.deps.json
+C:\Work\PatternsDemo\Behavioral\Specification\bin\Debug\net7.0\Specification.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\Specification\bin\Debug\net7.0\Specification.dll
+C:\Work\PatternsDemo\Behavioral\Specification\bin\Debug\net7.0\Specification.pdb
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.dll
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\refint\Specification.dll
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.pdb
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\Specification.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\Specification\obj\Debug\net7.0\ref\Specification.dll

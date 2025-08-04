@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Stepwise.csproj",
+      "projectUniqueName": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Stepwise.csproj",
       "projectName": "Stepwise",
-      "projectPath": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\Stepwise.csproj",
+      "projectPath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\Stepwise.csproj",
       "packagesPath": "C:\\Users\\adrian.albai\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Patterns\\Creational\\Builder\\Stepwise\\obj\\",
+      "outputPath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Stepwise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/KeborMed/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
@@ -74,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5kjBHe0Teo0=",
+  "dgSpecHash": "AQRTxBBn2T4=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Creational\\Builder\\Composite\\Composite.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\Composite\\Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

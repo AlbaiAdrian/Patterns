@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:orc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|c:\\work\\patternsdemo\\behavioral\\chainofresponsability\\goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19F9EAFB-AF36-4D7E-ACDB-3B2417F60FF0}|ChainOfResponsability.csproj|solutionrelative:goblin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orc.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Orc.cs",
+              "RelativeDocumentMoniker": "Orc.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Orc.cs",
+              "RelativeToolTip": "Orc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:24:54.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:23:50.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Creature.cs",
+              "RelativeDocumentMoniker": "Creature.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Creature.cs",
+              "RelativeToolTip": "Creature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:23:37.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Dragon.cs",
+              "RelativeDocumentMoniker": "Dragon.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Dragon.cs",
+              "RelativeToolTip": "Dragon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:23:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Goblin.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Goblin.cs",
+              "RelativeDocumentMoniker": "Goblin.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Goblin.cs",
+              "RelativeToolTip": "Goblin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:23:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Hero.cs",
+              "RelativeDocumentMoniker": "Hero.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\ChainOfResponsability\\Hero.cs",
+              "RelativeToolTip": "Hero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T06:37:40.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

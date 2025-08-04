@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KfbWFd3ISx5ilfo+fxoD3lkkDZYUBB5iODn0U8Nq73oEzaHonBgWhK8yQu4O3l+4PVCM0j+ayC5VhxMEXO11sQ==",
+  "dgSpecHash": "D2it1ECuDo8=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Structural\\Facade_I\\Facade_I.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\Facade_I.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

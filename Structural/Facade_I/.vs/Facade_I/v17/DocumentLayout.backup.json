@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|c:\\work\\patternsdemo\\structural\\facade_i\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|solutionrelative:facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|c:\\work\\patternsdemo\\structural\\facade_i\\system2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|solutionrelative:system2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|c:\\work\\patternsdemo\\structural\\facade_i\\system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A89E28-4F7F-4786-A030-41B77105FA26}|Facade_I.csproj|solutionrelative:system1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "System2.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\System2.cs",
+              "RelativeDocumentMoniker": "System2.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\System2.cs",
+              "RelativeToolTip": "System2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:01:50.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "System1.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\System1.cs",
+              "RelativeDocumentMoniker": "System1.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\System1.cs",
+              "RelativeToolTip": "System1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:01:50.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\Facade.cs",
+              "RelativeDocumentMoniker": "Facade.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Structural\\Facade_I\\Facade.cs",
+              "RelativeToolTip": "Facade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:01:50.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

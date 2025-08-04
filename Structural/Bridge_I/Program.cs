@@ -29,5 +29,5 @@ tvRemote.VolumeDown();
 tvRemote.TogglePower();
 
 
-TVRemote tvRemote1= new TVRemote(radio);
+TVRemote tvRemote1= new TVRemote(tv);
 tvRemote1.TogglePower();

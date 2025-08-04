@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAFnCm+PZzU8V9gHY7y6avN+UlOVkmAPp1LRtNXabtLH6i70uz2jvCzFI/KJ5HmX/LJuBJLtNDAXHYAdIINouQ==",
+  "dgSpecHash": "t8pAlzLzBlI=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Structural\\Decorator\\Decorator.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Structural\\Decorator\\Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

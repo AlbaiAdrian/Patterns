@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|c:\\work\\patternsdemo\\behavioral\\strategy\\ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|solutionrelative:ipaymentstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|c:\\work\\patternsdemo\\behavioral\\strategy\\paymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|solutionrelative:paymenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|c:\\work\\patternsdemo\\behavioral\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|c:\\work\\patternsdemo\\behavioral\\strategy\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|solutionrelative:paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|c:\\work\\patternsdemo\\behavioral\\strategy\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB4DD25-778F-4898-A314-EE610EBC7B0E}|Strategy.csproj|solutionrelative:creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentHandler.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\PaymentHandler.cs",
+              "RelativeDocumentMoniker": "PaymentHandler.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\PaymentHandler.cs",
+              "RelativeToolTip": "PaymentHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:43.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "PayPalPayment.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\PayPalPayment.cs",
+              "RelativeToolTip": "PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:56:09.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "CreditCardPayment.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\CreditCardPayment.cs",
+              "RelativeToolTip": "CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:55:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "IPaymentStrategy.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\IPaymentStrategy.cs",
+              "RelativeToolTip": "IPaymentStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:54:59.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Work\\PatternsDemo\\Behavioral\\Strategy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T11:54:01.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

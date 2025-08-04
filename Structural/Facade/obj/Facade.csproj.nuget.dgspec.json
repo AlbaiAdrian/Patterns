@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Patterns\\Structural\\Facade\\Facade.csproj": {}
+    "C:\\Work\\PatternsDemo\\Structural\\Facade\\Facade.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Patterns\\Structural\\Facade\\Facade.csproj": {
+    "C:\\Work\\PatternsDemo\\Structural\\Facade\\Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Patterns\\Structural\\Facade\\Facade.csproj",
+        "projectUniqueName": "C:\\Work\\PatternsDemo\\Structural\\Facade\\Facade.csproj",
         "projectName": "Facade",
-        "projectPath": "C:\\Work\\Patterns\\Structural\\Facade\\Facade.csproj",
+        "projectPath": "C:\\Work\\PatternsDemo\\Structural\\Facade\\Facade.csproj",
         "packagesPath": "C:\\Users\\adrian.albai\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Patterns\\Structural\\Facade\\obj\\",
+        "outputPath": "C:\\Work\\PatternsDemo\\Structural\\Facade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,8 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/KeborMed/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {

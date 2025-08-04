@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\State\bin\Debug\net9.0\State.exe
+C:\Work\PatternsDemo\Behavioral\State\bin\Debug\net9.0\State.deps.json
+C:\Work\PatternsDemo\Behavioral\State\bin\Debug\net9.0\State.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\State\bin\Debug\net9.0\State.dll
+C:\Work\PatternsDemo\Behavioral\State\bin\Debug\net9.0\State.pdb
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.dll
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\refint\State.dll
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.pdb
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\State.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\State\obj\Debug\net9.0\ref\State.dll

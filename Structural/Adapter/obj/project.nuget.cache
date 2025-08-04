@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XBX9u/5063y+3sLJ0Shd2pN3sV7T/DRLgil2PJF/Ns0O2dSp4m13AfcpupoSN2WB/aSUxt+65hA7wJ98UJAD+g==",
+  "dgSpecHash": "DzMntaZ634A=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Structural\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Structural\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Adrian-IoanAlbai\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
-    "C:\\Users\\Adrian-IoanAlbai\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+    "C:\\Users\\adrian.albai\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\adrian.albai\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

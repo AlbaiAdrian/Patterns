@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zr81bAM1mzE=",
+  "dgSpecHash": "lYp0lxoH4ks=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Patterns\\Creational\\Builder\\StaticInit\\StaticInit.csproj",
+  "projectFilePath": "C:\\Work\\PatternsDemo\\Creational\\Builder\\StaticInit\\StaticInit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

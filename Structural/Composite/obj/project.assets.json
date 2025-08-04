@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adrian-IoanAlbai\\.nuget\\packages\\": {},
+    "C:\\Users\\adrian.albai\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Patterns\\Structural\\Composite\\Composite.csproj",
+      "projectUniqueName": "C:\\Work\\PatternsDemo\\Structural\\Composite\\Composite.csproj",
       "projectName": "Composite",
-      "projectPath": "C:\\Work\\Patterns\\Structural\\Composite\\Composite.csproj",
-      "packagesPath": "C:\\Users\\Adrian-IoanAlbai\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Patterns\\Structural\\Composite\\obj\\",
+      "projectPath": "C:\\Work\\PatternsDemo\\Structural\\Composite\\Composite.csproj",
+      "packagesPath": "C:\\Users\\adrian.albai\\.nuget\\packages\\",
+      "outputPath": "C:\\Work\\PatternsDemo\\Structural\\Composite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Adrian-IoanAlbai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adrian.albai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -46,7 +46,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -67,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

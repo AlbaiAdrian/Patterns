@@ -1,0 +1,15 @@
+C:\Work\PatternsDemo\Behavioral\Template\bin\Debug\net9.0\Template.exe
+C:\Work\PatternsDemo\Behavioral\Template\bin\Debug\net9.0\Template.deps.json
+C:\Work\PatternsDemo\Behavioral\Template\bin\Debug\net9.0\Template.runtimeconfig.json
+C:\Work\PatternsDemo\Behavioral\Template\bin\Debug\net9.0\Template.dll
+C:\Work\PatternsDemo\Behavioral\Template\bin\Debug\net9.0\Template.pdb
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.AssemblyInfoInputs.cache
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.AssemblyInfo.cs
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.csproj.CoreCompileInputs.cache
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.sourcelink.json
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.dll
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\refint\Template.dll
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.pdb
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\Template.genruntimeconfig.cache
+C:\Work\PatternsDemo\Behavioral\Template\obj\Debug\net9.0\ref\Template.dll

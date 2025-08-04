@@ -14,5 +14,6 @@ internal class FacebookNotificationDecorator : BaseDecorator, INotification
         }
 
         Console.WriteLine("Facebook notification sent!");
+
     }
 }
